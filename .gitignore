@@ -24,6 +24,12 @@ engineering/
 # Technical paper with the full mathematical formulation
 papers/technical/
 
+# Earlier drafts (v1.0, v1.1) — superseded by v1.2 deposit candidate; kept
+# locally per append-only rule but not republished on GitHub to avoid
+# confusing readers with stale framings.
+papers/plain_language/v1.0/
+papers/plain_language/v1.1/
+
 # Original aggregated CSVs — contain mechanism-state columns (final_inj_*,
 # final_signed_output, final_acc). Only the redacted copies in
 # papers/plain_language/v1.2/data_for_zenodo/ are public.

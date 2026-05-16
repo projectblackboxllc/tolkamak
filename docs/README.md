@@ -1,6 +1,8 @@
 # Tolkamak — Website (GitHub Pages bundle)
 
-Static site companion to the Zenodo deposit *A Toroidal Geometric Rectifier: Empirical Disproof of Linear-Response in Plasma Confinement* (v1.1).
+Static site companion to the Zenodo deposit *A Toroidal Geometric Rectifier: Empirical Disproof of Linear-Response in Plasma Confinement* (v1.2, DOI [10.5281/zenodo.20245905](https://doi.org/10.5281/zenodo.20245905)).
+
+**Live site:** https://projectblackboxllc.github.io/tolkamak/
 
 ## Files
 
@@ -13,17 +15,14 @@ Static site companion to the Zenodo deposit *A Toroidal Geometric Rectifier: Emp
   - `fig_004_dirty_twin_slew.png` — actuator slew-rate benchmark
   - `fig_006_dirty_twin_ripple_stringent.png` — stringent ripple test (parallel-dominant)
 
-## Deploying to GitHub Pages
+## Deployment
 
-1. Create a public GitHub repo (or use a `gh-pages` branch on the main repo).
-2. Copy this `website/` directory's contents to the repo root (or to `/docs/`).
-3. In repo Settings → Pages, enable Pages from the chosen branch and root.
-4. Add a `CNAME` file if pointing to a custom domain (the user's possible domain — leave for when ready).
+This `docs/` directory is the GitHub Pages source for the `tolkamak` repository. Pages is configured to serve from `main` branch `/docs` — see repo Settings → Pages. To deploy a custom domain later, add a `CNAME` file to this folder.
 
 ## Local preview
 
 ```bash
-cd website/
+cd docs/
 python3 -m http.server 8000
 # Open http://localhost:8000 in a browser.
 ```

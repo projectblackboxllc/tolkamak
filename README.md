@@ -1,10 +1,16 @@
 # TOU Engine (Toroidal Oscillatory Unit) — 3D
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20245905.svg)](https://doi.org/10.5281/zenodo.20245905)
+[![Companion v1 Software](https://img.shields.io/badge/Companion%20v1%20(software)-10.5281%2Fzenodo.18450491-blue)](https://doi.org/10.5281/zenodo.18450491)
+[![Site](https://img.shields.io/badge/site-projectblackboxllc.github.io%2Ftolkamak-blue)](https://projectblackboxllc.github.io/tolkamak/)
+
 Author: Andrew Woodward  
-ORCID: 0009-0006-9717-7161  
+ORCID: [0009-0006-9717-7161](https://orcid.org/0009-0006-9717-7161)  
 Affiliation: Project Black Box LLC (CAGE Code 11FU4)  
-Source: https://github.com/projectblackboxllc  
-Version: v1.0  
+Source: https://github.com/projectblackboxllc/tolkamak  
+Version: v1.2 (whitepaper) / v1.0 (this engine)  
+
+**Whitepaper PDF:** [`papers/plain_language/v1.2/tolkamak_zenodo_v1.2.pdf`](papers/plain_language/v1.2/tolkamak_zenodo_v1.2.pdf) · **Live site:** https://projectblackboxllc.github.io/tolkamak/
 
 ---
 
